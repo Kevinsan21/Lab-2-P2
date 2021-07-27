@@ -47,7 +47,7 @@ PROCEDIMIENTO
 El Teorema de Thévenin es el mejor para determinar la impedancia equivalente de un circuito resumido a una fuente, por lo tanto en un corto circuito se utiliza para determinar la corriente de las resistencias además si se necesita hacer una máxima transferencia de potencia en un sistema se obtiene el equivalente de Thévenin y se usa ese mismo valor de impedancia, por tanto tendremos la máxima transferencia de carga , se usa para determinar la resistencia equivalente de una fuente de poder para analizar el sistema como si fuera uno solo y así simplificar los cálculos, se usa además para saber que sucede en situaciones de líneas abiertas.
 
 
-# 7.BIBLIOGRAFIA!
+# 7.BIBLIOGRAFIA
 
 Robbins, A., & Oja, D. (s. f.). Analisis De Circuitos Electricos/ Circuit Analysis: Teoria Y Practica/ Theory and Practice (4 Pap/Cdr ed.) [Libro electrónico]. https://www.academia.edu/20334884/Analisis_de_circuitos_Teoria_y_practica
 
