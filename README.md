@@ -15,6 +15,7 @@
 # 3.EXPLICACION DE PROCEDIMIENTO 
 
 SIMULACION TINKERCAD
+
 ![image](https://user-images.githubusercontent.com/84421020/127088308-587fd7de-9042-4efd-96e9-cc8c5956650a.png)
 ![image](https://user-images.githubusercontent.com/84421020/127088329-36f7845b-8fc1-4be4-a369-a3b271ac907a.png)
 ![image](https://user-images.githubusercontent.com/84421020/127088337-43879b8b-69ed-4678-b15f-6d7fe05a3dff.png)
