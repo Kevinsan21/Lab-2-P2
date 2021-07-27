@@ -23,6 +23,11 @@ SIMULACION TINKERCAD
 ![image](https://user-images.githubusercontent.com/84421020/127088367-f1f64b9f-1d36-4f0e-b6d8-e4b070611031.png)
 ![image](https://user-images.githubusercontent.com/84421020/127088385-5a834415-32d5-4b60-ad24-ac94c6f7b0ca.png)
 
+PROCEDIMIENTO
+![image](https://user-images.githubusercontent.com/84421020/127088693-4cf6558c-1c1f-4ff2-b1fe-bb7c2567004d.png)
+![image](https://user-images.githubusercontent.com/84421020/127088787-696a77f1-7f93-45d4-8f0a-434305fe64c1.png)
+![image](https://user-images.githubusercontent.com/84421020/127088882-c05ff5b6-20ff-46e3-8968-75e9e696df0b.png)
+
 
 # 4.RESPUESTAS A INTERROGANTES Y CALCULO DE ERROR
 
