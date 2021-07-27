@@ -14,12 +14,15 @@
 
 # 3.EXPLICACION DE PROCEDIMIENTO 
 
-SIMULACION TINKERCAD
-
+![image](https://user-images.githubusercontent.com/84421020/127089022-8135ad24-38ca-4c8c-89c3-d6f90583eee1.png)
+![image](https://user-images.githubusercontent.com/84421020/127089128-998fa810-7640-42d6-a021-c3533b0ecee5.png)
 ![image](https://user-images.githubusercontent.com/84421020/127088308-587fd7de-9042-4efd-96e9-cc8c5956650a.png)
 ![image](https://user-images.githubusercontent.com/84421020/127088329-36f7845b-8fc1-4be4-a369-a3b271ac907a.png)
+![image](https://user-images.githubusercontent.com/84421020/127089212-469a0949-b1d0-4af0-b8a3-03896c9ec05e.png)
 ![image](https://user-images.githubusercontent.com/84421020/127088337-43879b8b-69ed-4678-b15f-6d7fe05a3dff.png)
+![image](https://user-images.githubusercontent.com/84421020/127089284-4fc49262-e7f9-4c9c-8293-525c02d8c6a8.png)
 ![image](https://user-images.githubusercontent.com/84421020/127088353-79f6d846-575a-4e72-b76c-0dfffd66894c.png)
+![image](https://user-images.githubusercontent.com/84421020/127089344-d8f23bcb-56e6-4df3-822a-0c2b6615c709.png)
 ![image](https://user-images.githubusercontent.com/84421020/127088367-f1f64b9f-1d36-4f0e-b6d8-e4b070611031.png)
 ![image](https://user-images.githubusercontent.com/84421020/127088385-5a834415-32d5-4b60-ad24-ac94c6f7b0ca.png)
 
