@@ -6,9 +6,12 @@
 .Vanessa Cayambe
 
 # 1.OBJETIVOS
+Realizar mediciones aplicando el teorema de Thévenin para darnos cuenta de que el resultado es el mismo si utilizamos el análisis teórico y experimental.
 
+Justificar el teorema de Thévenin mediante la realizacion de circuitos.
 
 # 2.MARCO TEORICO
+
 ![](https://github.com/Kevinsan21/Lab-2-P2-PICTURES/blob/main/Teoria-lab5.PNG)
 ![](https://github.com/Kevinsan21/Lab-2-P2-PICTURES/blob/main/Teoria2-lab5.PNG)
 
