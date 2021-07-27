@@ -10,7 +10,7 @@
 
 # 2.MARCO TEORICO
 ![](https://github.com/Kevinsan21/Lab-2-P2-PICTURES/blob/main/Teoria-lab5.PNG)
-
+![](https://github.com/Kevinsan21/Lab-2-P2-PICTURES/blob/main/Teoria2-lab5.PNG)
 
 # 3.EXPLICACION DE PROCEDIMIENTO 
 
